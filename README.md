@@ -3,7 +3,7 @@
 <div align='center'>
   <img src="https://skillicons.dev/icons?i=java,python,cs"/>
   <br/>
-  <img src="htps://skillicons.dev/icons?i=idea,vscode,pycharm,rider"/>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,pycharm,rider"/>
   <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white"></img>
   <br/>
   <img src="https://img.shields.io/badge/Jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC"></img>
