@@ -1,9 +1,13 @@
 <h1 align='center'>Hello traveller!</h1>
 <h2 align='center'>About Me</h2>
 <div align='center'>
-  <img src="https://img.shields.io/badge/java-FF6D00?style=for-the-badge&logo=openjdk&logoColor=black"></img>
+  <img src="https://img.shields.io/badge/Java-FF6D00?style=for-the-badge&logo=openjdk&logoColor=black"></img>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></img>
-
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></img>
+  <br/>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/Jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC"></img>
+  <img src="https://img.shields.io/badge/YodaForce157-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></img>
 </div>
 
 
