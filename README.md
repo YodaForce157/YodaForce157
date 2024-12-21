@@ -1,3 +1,6 @@
+<h1>I'm YodaForce157</h1>
+<h2>My Languages</h2>
+
 <div align='center'>
   <h1 align='center'>My WakaTime Stats</h1>
   <img align='center' src="https://github-readme-stats.vercel.app/api/wakatime?username=YodaForce157&theme=onedark&layout=compact&show_icons=true&hide=ini,gradle,groovy,textmate,properties,text,xaml,kotlin,Gitignore,Gitexclude,json,xml,markdown"></img>
