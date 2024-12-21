@@ -1,6 +1,7 @@
-<h1>I'm YodaForce157</h1>
-<h2>My Languages</h2>
-
+<h1 align='center'>Hello traveller!</h1>
+<h2 align='center'>About Me</h2>
+<i>Languages:</i>
+<img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge"></img>
 <div align='center'>
   <h1 align='center'>My WakaTime Stats</h1>
   <img align='center' src="https://github-readme-stats.vercel.app/api/wakatime?username=YodaForce157&theme=onedark&layout=compact&show_icons=true&hide=ini,gradle,groovy,textmate,properties,text,xaml,kotlin,Gitignore,Gitexclude,json,xml,markdown"></img>
