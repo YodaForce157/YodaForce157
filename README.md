@@ -1,6 +1,6 @@
 <div>
-  <h1>My WakaTime Stats</h1>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YodaForce157"></img>
+  <h1 align='center'>My WakaTime Stats</h1>
+  <img align='center' src="https://github-readme-stats.vercel.app/api/wakatime?username=YodaForce157&theme=dark"></img>
 </div>
 
 <h1 align='center'>My GitHub Stats</h2>
