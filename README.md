@@ -1,11 +1,10 @@
-<!--START_SECTION:waka-->
+<div>
+  <h1>My WakaTime Stats</h1>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YodaForce157"></img>
+</div>
 
-```txt
-Java          9 hrs 55 mins   ██████████████████████░░░   87.67 %
-C#            1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
-Groovy        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Kotlin        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Gradle        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-```
+<h1 align='center'>My GitHub Stats</h2>
+<div align='center'>
 
-<!--END_SECTION:waka-->
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=YodaForce157&layout=compact&show_icons=true&count_private=true&theme=dark"/>
+</div>
