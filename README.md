@@ -1,7 +1,7 @@
 <h1 align='center'>Hello traveller!</h1>
 <h2 align='center'>About Me</h2>
 <div align='center'>
-  <img src="https://img.shields.io/openjdk"></img>
+  <img src="https://img.shields.io/-Java-openjdk"></img>
 
 
 </div>
