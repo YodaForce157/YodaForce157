@@ -1,8 +1,8 @@
 <h1 align='center'>Hello traveller!</h1>
 <h2 align='center'>About Me</h2>
 <div align='center'>
-  <img src="https://img.shields.io/badge/Java?logo=openjdk"></img>
-  <img src="https://img.shields.io/badge/C#?logo=csharp"></img>
+  <img src="https://img.shields.io/badge/java-FF6D00?style=for-the-badge&logo=openjdk&logoColor=black"></img>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></img>
 
 </div>
 
