@@ -1,7 +1,7 @@
 <h1 align='center'>Hello traveller!</h1>
 <h2 align='center'>About Me</h2>
 <div align='center'>
-  <img src="https://skillicons.dev/icons?i=java,python,cs,idea"/>
+  <img src="https://skillicons.dev/icons?i=java,python,cs"/>
   <br/>
   <img src="htps://skillicons.dev/icons?i=idea,vscode,pycharm,rider"/>
   <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white"></img>
