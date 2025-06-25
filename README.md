@@ -7,8 +7,6 @@
   <br/>
   <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white"></img>
   <br/>
-  <img src="https://img.shields.io/badge/Jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC"></img>
-  <br/>
   <img src="https://img.shields.io/badge/YodaForce157-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></img>
 </div>
 <div align='center'>
